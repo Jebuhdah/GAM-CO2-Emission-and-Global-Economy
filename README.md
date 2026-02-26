@@ -1,4 +1,4 @@
-# CO2-emission-in-relation-to-change-global-economic-environment
+# General-Addictive-Model: CO2-Emission-in-Relation-to-Change-Global-Economic-Environment
 The cause of CO2 emissions are often considered highly relative with human activities, namely industrial 
 productions. To further provide insight on information with bettered details on how human industrial 
 production activities impacts on global CO2 concentration levels, this analytic will examine through the 
